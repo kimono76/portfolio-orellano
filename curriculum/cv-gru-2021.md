@@ -2,27 +2,27 @@
 ## <div class="big-text" style="color: blue;text-align: center;"> N O E L I A  <span style="color:white">.</span>  S O L E D A D <span style="color:white">.</span>  O R E L L A N O</div>    -->
 <style>
 .big-text {
-  font-size: 32px;
+  font-size: 22px;
 }
 </style>
 
 <h2 style="padding-bottom: 50px;color: blue;">
     <div class="big-text" style="float: left;width: 40%;"> CURRICULUM VITAE:</div>
-    <div class="big-text"style="float: left;width: 60%;" align=right>ALBERTO GRUNING</div> </h2>  
+    <div class="big-text"style="float: left;width: 60%;" align=right/>NOELIA ORELLANO</div> </h2>  
 
 # <div style="text-align: right;color: blue;">_Datos Personales_</div>  
  <img src="https://github.com/Gruning/Public-Media/raw/master/image-nso.png" width=25% align=right>
-<b>Domicilio:</b> Molina 1950 
+<b>Domicilio:</b> Ghiraldo 1657
 
-<b>Fecha de nacimiento:</b> 17/02/1984  
+<b>Fecha de nacimiento:</b> 06/09/1986  
 
-<b>Documento:</b> 30.826.091  
+<b>Documento:</b> 32.659.669
 
-<b>Estado civil:</b> Soltero, sin hijos  
+<b>Estado civil:</b> Soltera, sin hijos  
 
-<b>Nacionalidad:</b> argentino  
+<b>Nacionalidad:</b> argentina  
 
-<b>Contacto:</b> 341-5 086 222 
+<b>Contacto:</b> 341-3 440 382 
 
 # <div style="text-align: right;color: blue;"> _Estudios Cursados_ </div>  
 <b>U.T.N.:</b> con materias regularizadas de 1er y 2do   
