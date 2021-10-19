@@ -2,7 +2,7 @@
 ## <div class="big-text" style="color: blue;text-align: center;"> N O E L I A  <span style="color:white">.</span>  S O L E D A D <span style="color:white">.</span>  O R E L L A N O</div>    -->
 <style>
 .big-text {
-  font-size: 32px;
+  font-size: 24px;
 }
 </style>
 
@@ -13,7 +13,7 @@
 
 
 
-# <div style="text-align: right;color: blue;">_Datos Personales_</div>  
+# <div style="text-align: right;color: blue;"><h5>_Datos Personales_<h5></div>  
  <img src="https://github.com/Gruning/Public-Media/raw/master/image-nso.png" width=25% align=right>
 <b>Domicilio:</b> Ghiraldo 1657 
 
@@ -27,7 +27,7 @@
 
 <b>Contacto:</b> 341-3440382 
 
-# <div style="text-align: right;color: blue;"> _Estudios Cursados_ </div>  
+# <div style="text-align: right;color: blue;"><h5> _Estudios Cursados_</h5> </div>  
 <b>Secundario completo:</b> Escuela “Fontanarosa Nro. 408" Promoción 2008 
 
 <b>Organización y Producción de Eventos:</b> Instituto ICR 2010 
@@ -44,7 +44,7 @@
 
 <b>Curso de inteligencia artificial (low-code): </b>plataforma online udemy.com (en curso)
 
-# <div style="text-align: right;color: blue;">_Perfil Profesional_</div> 
+# <div style="text-align: right;color: blue;"><h5>_Perfil Profesional_</h5></div> 
 <b>Ventas</b> y atención al publico   
 
 <b>Limpieza</b> en oficinas, fábricas, escuelas y manejo de equipos de limpieza industrial  
@@ -59,7 +59,7 @@ Gestión general, rotación de turnos del personal y <b>control de stock</b>
 
 Experiencia en <b>cocina</b> para  particulares, bares , cocina industrial, etc
  
-# <div style="text-align: right;color: blue;">_Experiencia Laboral_</div> 
+# <div style="text-align: right;color: blue;"><h5>_Experiencia Laboral_</h5></div> 
 <span style="color: blue;">**2018 – 2021** </span><b>Vigilancia:</b> “Bunker Seguridad” prestando servicio en “Maternidad Martin (puesto de neonatología)”  
 <span style="color: blue;">**2015 –2018** </span><b>Ventas - Limpieza:</b> Artículos de limpieza (productos químicos)   
 <span style="color: blue;">**2012 – 2015** </span> <b>Vigilancia:</b> “Royal Security SRL” prestando servicio en “Blue Connect Contact Center”  
