@@ -28,9 +28,21 @@
 <b>Contacto:</b> 341-3440382 
 
 # <div style="text-align: right;color: blue;"> _Estudios Cursados_ </div>  
-<b>Secundario completo:</b> Escuela “Fontanarosa Nro. 408" Promoción 2008  
-<b>Organización y Producción de Eventos:</b> Instituto ICR 2010  
+<b>Secundario completo:</b> Escuela “Fontanarosa Nro. 408" Promoción 2008 
+
+<b>Organización y Producción de Eventos:</b> Instituto ICR 2010 
+
 <b>Cursos de RCP:</b> Distrito Municipal Villa Hortensia Rosario 2017 
+
+<b>Cursos de maketing en redes sociales: </b>Plataforma online www.udemy.com 2021
+
+<b>Cursos de introduccion a la higiene y seguridad (cocinas industriales) :</b> U.P.C.N    2021 
+
+<b>Curso de Gestion organizacion y administracion de servicios alimentarios escolares :</b>U.P.C.N. 2021 
+
+<b>Cursos de:Normativa para asistentes escolares :</b>U.P.C.N.2021
+
+<b>Curso de inteligencia artificial (low-code): </b>plataforma online udemy.com (en curso)
 
 # <div style="text-align: right;color: blue;">_Perfil Profesional_</div> 
 <b>Ventas</b> y atención al publico   
