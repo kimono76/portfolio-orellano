@@ -55,7 +55,7 @@ Capacitación en <b>normas de seguridad</b>, evacuación y primeros auxilios
 Experiencia en <b>uso de PC</b>, Microsoft Windows y Office   
 Gestión general, rotación de turnos del personal y <b>control de stock</b>   
 
-<b>Recepción</b> y atención telefónica publico  y 
+<b>Recepción</b> y atención telefónica al publico  
 
 Experiencia en <b>cocina</b> para  particulares, bares , cocina industrial, etc
  
