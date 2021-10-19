@@ -46,12 +46,18 @@
 
 # <div style="text-align: right;color: blue;">_Perfil Profesional_</div> 
 <b>Ventas</b> y atención al publico   
+
 <b>Limpieza</b> en oficinas, fábricas, escuelas y manejo de equipos de limpieza industrial  
+
 <b>Vigilancia</b> y Seguridad Privada  
 Capacitación en <b>normas de seguridad</b>, evacuación y primeros auxilios  
+
 Experiencia en <b>uso de PC</b>, Microsoft Windows y Office   
 Gestión general, rotación de turnos del personal y <b>control de stock</b>   
-<b>Recepción</b> y atención telefónica 
+
+<b>Recepción</b> y atención telefónica publico  y 
+
+Experiencia en <b>cocina</b> para  particulares, bares , cocina industrial, etc
  
 # <div style="text-align: right;color: blue;">_Experiencia Laboral_</div> 
 <span style="color: blue;">**2018 – 2021** </span><b>Vigilancia:</b> “Bunker Seguridad” prestando servicio en “Maternidad Martin (puesto de neonatología)”  
